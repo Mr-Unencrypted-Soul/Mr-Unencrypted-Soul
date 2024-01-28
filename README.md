@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Vulnerability Assesment and penetration testing
 - 📫 How to reach me : Email: aniket.kasturi@gmail.com
 
+Note: "the-virgo-noid" github is also mine.
 <!---
 Mr-Unencrypted-Soul/Mr-Unencrypted-Soul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
