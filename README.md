@@ -16,13 +16,3 @@
   - [Doodle](https://github.com/Mr-Unencrypted-Soul/doodle)
 
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="ak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/3ncrypTed_soul
-[instagram]: https://www.instagram.com/42graphic.frames
-[linkedin]: https://www.linkedin.com/in/aniket-kasturi-4b783b1a4/
