@@ -6,15 +6,12 @@
   - [Folder Lock - Confidentiality](https://github.com/Mr-Unencrypted-Soul/folderlock)
 
 - <b> WEB APPLICATION PROJECTS</b>
-- <b>Talkitout</b>
   - [Talk it out](https://github.com/Mr-Unencrypted-Soul/talkitout) 
 
 - <b>PYTHON PROJECTS</b>
-- <b>Abby </b>
   - [Abby](https://github.com/Mr-Unencrypted-Soul/abby)
 
 - <b>MOBILE APPLICATION PROJECTS</b>
-- <b>Mast Music </b>
   - [Mast Music](https://github.com/Mr-Unencrypted-Soul/abby)
 
 - <b>Doodle </b>
