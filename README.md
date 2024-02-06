@@ -13,8 +13,6 @@
 
 - <b>MOBILE APPLICATION PROJECTS</b>
   - [Mast Music](https://github.com/Mr-Unencrypted-Soul/abby)
-
-- <b>Doodle </b>
   - [Doodle](https://github.com/Mr-Unencrypted-Soul/doodle)
 
 
