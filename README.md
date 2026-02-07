@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aniket Kasturi! <br/><a href="https://github.com/Mr-Unencrypted-Soul">Penetration Tester</a>, <a href="https://www.linkedin.com/in/aniket-kasturi-4b783b1a4/">CyberSecurity Enthusiast </a>, <a href="https://www.instagram.com/42graphic.frames?igsh=MXVxbWQzeXE0MW9udA==">Photographer</a></h1>
+<h1>Hi, I'm Aniket Kasturi! <br/><a href="https://github.com/Mr-Unencrypted-Soul">Penetration Tester | Offensive Security Engineer</a>, <a href="https://www.linkedin.com/in/aniket-kasturi-4b783b1a4/">CyberSecurity Enthusiast </a>, <a href="https://www.instagram.com/42graphic.frames?igsh=MXVxbWQzeXE0MW9udA==">Photographer</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
