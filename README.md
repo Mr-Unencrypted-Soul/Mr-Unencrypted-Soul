@@ -4,7 +4,7 @@
 
 - <b>CYBER SECURITY PROJECTS</b>
   - [Folder Lock - Confidentiality](https://github.com/Mr-Unencrypted-Soul/folderlock)
-  - RahasyaScan - DevSecOps Tool (https://github.com/Mr-Unencrypted-Soul/SecretsScanner)
+  - [RahasyaScan - DevSecOps Tool](https://github.com/Mr-Unencrypted-Soul/SecretsScanner)
 
 - <b> WEB APPLICATION PROJECTS</b>
   - [Talk it out](https://github.com/Mr-Unencrypted-Soul/talkitout) 
