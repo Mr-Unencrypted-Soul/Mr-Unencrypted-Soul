@@ -3,10 +3,13 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>CYBER SECURITY PROJECTS</b>
-  - [Folder Lock - Confidentiality](https://github.com/Mr-Unencrypted-Soul/folderlock)
   - [RahasyaScan - DevSecOps Tool](https://github.com/Mr-Unencrypted-Soul/SecretsScanner)
+  - [BlogXploit - A vulnerable Web application - Secured with Shift Left](https://github.com/Mr-Unencrypted-Soul/blogXploit)
+  - [Folder Lock - Confidentiality](https://github.com/Mr-Unencrypted-Soul/folderlock)
+  
 
-- <b> WEB APPLICATION PROJECTS</b>
+- <b> WEB APPLICATION </b>
+  
   - [Talk it out](https://github.com/Mr-Unencrypted-Soul/talkitout) 
 
 - <b>PYTHON PROJECTS</b>
